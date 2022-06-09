@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlluKoodaa
 - 👀 I’m interested in a career change from music to IT
-- 🌱 I’m currently learning Fullstack development
+- 🌱 I’m currently learning Fullstack development and brushing up on my Python skills
 - 📫 How to reach me: https://www.linkedin.com/in/allukoodaa/
 
 <!---
