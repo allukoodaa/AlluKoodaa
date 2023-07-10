@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlluKoodaa
-- 👀 Career change from music/teaching into IT in progress
-- 🌱 I’m currently learning Advanced Python and Robot Framework
+- 👀 Automation Developer/Test Automation Specialist
+- 🌱 I’m currently learning Azure DevOps
 - 📫 How to reach me: https://www.linkedin.com/in/allukoodaa/
 
 <!---
