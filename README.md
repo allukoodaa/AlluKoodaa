@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlluKoodaa
 - 👀 Automation Developer/Test Automation Specialist
-- 🌱 I’m currently learning Azure DevOps
+- 🌱 I’m currently learning C
 - 📫 How to reach me: https://www.linkedin.com/in/allukoodaa/
 
 <!---
